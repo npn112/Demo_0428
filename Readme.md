@@ -7,6 +7,7 @@ README for Demo
 *italic*
 **bold**
 ~~strike~~
+<<<<<<< HEAD
 add more info
 
 so many commitments

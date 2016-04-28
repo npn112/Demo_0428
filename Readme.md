@@ -9,7 +9,3 @@ README for Demo
 ~~strike~~
 <<<<<<< HEAD
 add more info
-
-so many commitments
-
-additional info
